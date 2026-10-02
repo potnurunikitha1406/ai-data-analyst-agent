@@ -2,24 +2,42 @@
 
 An AI-powered Data Analyst Agent that allows users to upload CSV and Excel files and analyze their data using natural language questions.
 
+## 🚀 Live Demo
+
+👉 **[Try the AI Data Analyst Agent](https://nikitha-ai-data-analyst.streamlit.app/)**
+
+Upload a CSV or Excel dataset, ask questions in natural language, and generate data analysis, visualizations, and AI-powered business insights.
+
 ## Features
 
 * Upload CSV and Excel datasets
+
 * Ask questions about data using natural language
+
 * AI-assisted data analysis
+
 * Data filtering and aggregation
+
 * Data visualization
+
 * AI-generated insights and summaries
+
 * Simple Streamlit interface
 
 ## Tech Stack
 
 * Python
+
 * Streamlit
+
 * Google Gemini API
+
 * Pandas
+
 * Matplotlib
+
 * Seaborn
+
 * OpenPyXL
 
 ## How It Works
@@ -91,9 +109,13 @@ http://localhost:8501
 ## Future Improvements
 
 * Advanced data cleaning
+
 * Automated dashboard generation
+
 * More visualization options
+
 * Conversational analysis history
+
 * Exportable analytical reports
 
 ## Author
